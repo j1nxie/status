@@ -1,7 +1,7 @@
 url: https://jellyfin.nazunacord.net/health
-status: down
-code: 502
-responseTime: 745
-lastUpdated: 2025-06-26T14:49:14.480Z
+status: up
+code: 200
+responseTime: 752
+lastUpdated: 2025-06-26T14:56:25.249Z
 startTime: 2024-07-22T11:13:24.881Z
 generator: Upptime <https://github.com/upptime/upptime>
