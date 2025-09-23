@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 279,
-    "timeDay": 94,
-    "timeWeek": 195,
-    "timeMonth": 267,
+    "timeDay": 254,
+    "timeWeek": 175,
+    "timeMonth": 269,
     "timeYear": 276,
     "dailyMinutesDown": {
       "2025-04-23": 658,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "39.93%",
+    "uptime": "39.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.80%",
+    "uptimeYear": "29.53%",
     "time": 859,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 843,
+    "timeYear": 842,
     "dailyMinutesDown": {
-      "2025-09-22": 114,
+      "2025-09-23": 104,
+      "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -306,8 +307,7 @@
       "2024-10-12": 35,
       "2024-10-11": 121,
       "2024-10-10": 20,
-      "2024-10-04": 21,
-      "2024-09-23": 306
+      "2024-10-04": 21
     }
   },
   {
@@ -322,10 +322,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.14%",
     "time": 722,
-    "timeDay": 865,
-    "timeWeek": 745,
-    "timeMonth": 733,
-    "timeYear": 727,
+    "timeDay": 758,
+    "timeWeek": 759,
+    "timeMonth": 730,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-08-21": 251,
       "2025-05-27": 45,
@@ -355,8 +355,7 @@
       "2024-10-16": 38,
       "2024-10-12": 94,
       "2024-10-11": 131,
-      "2024-10-04": 21,
-      "2024-09-23": 306
+      "2024-10-04": 21
     }
   },
   {
@@ -370,10 +369,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
-    "time": 725,
-    "timeDay": 754,
-    "timeWeek": 730,
-    "timeMonth": 720,
+    "time": 726,
+    "timeDay": 846,
+    "timeWeek": 747,
+    "timeMonth": 719,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2025-08-21": 251,
@@ -404,8 +403,7 @@
       "2024-10-16": 78,
       "2024-10-12": 94,
       "2024-10-11": 146,
-      "2024-10-04": 21,
-      "2024-09-23": 306
+      "2024-10-04": 21
     }
   }
 ]
