@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rylie.moe.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 280,
-    "timeDay": 200,
-    "timeWeek": 380,
-    "timeMonth": 288,
+    "timeDay": 261,
+    "timeWeek": 382,
+    "timeMonth": 283,
     "timeYear": 278,
     "dailyMinutesDown": {
       "2025-04-23": 658,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "38.93%",
+    "uptime": "38.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.85%",
+    "uptimeYear": "26.58%",
     "time": 859,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2025-10-03": 104,
+      "2025-10-04": 100,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -316,8 +317,7 @@
       "2024-10-16": 40,
       "2024-10-12": 35,
       "2024-10-11": 121,
-      "2024-10-10": 20,
-      "2024-10-04": 21
+      "2024-10-10": 20
     }
   },
   {
@@ -332,10 +332,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.20%",
     "time": 722,
-    "timeDay": 465,
-    "timeWeek": 657,
-    "timeMonth": 730,
-    "timeYear": 721,
+    "timeDay": 849,
+    "timeWeek": 695,
+    "timeMonth": 718,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2025-08-21": 251,
       "2025-05-27": 45,
@@ -364,8 +364,7 @@
       "2024-11-12": 58,
       "2024-10-16": 38,
       "2024-10-12": 94,
-      "2024-10-11": 131,
-      "2024-10-04": 21
+      "2024-10-11": 131
     }
   },
   {
@@ -380,9 +379,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.19%",
     "time": 727,
-    "timeDay": 797,
-    "timeWeek": 769,
-    "timeMonth": 741,
+    "timeDay": 772,
+    "timeWeek": 780,
+    "timeMonth": 738,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2025-08-21": 251,
@@ -412,8 +411,7 @@
       "2024-11-12": 58,
       "2024-10-16": 78,
       "2024-10-12": 94,
-      "2024-10-11": 146,
-      "2024-10-04": 21
+      "2024-10-11": 146
     }
   }
 ]
