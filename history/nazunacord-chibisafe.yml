@@ -1,7 +1,7 @@
 url: https://nazunacord.net/api/health
-status: down
-code: 530
-responseTime: 91
-lastUpdated: 2025-10-19T14:58:00.880Z
+status: up
+code: 200
+responseTime: 754
+lastUpdated: 2025-10-19T15:15:14.365Z
 startTime: 2024-07-22T11:13:23.931Z
 generator: Upptime <https://github.com/upptime/upptime>
