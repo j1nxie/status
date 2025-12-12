@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 289,
-    "timeDay": 240,
-    "timeWeek": 291,
-    "timeMonth": 400,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 394,
+    "timeWeek": 302,
+    "timeMonth": 401,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2025-04-23": 658,
       "2025-04-22": 824
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "33.63%",
+    "uptime": "33.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "8.00%",
-    "time": 839,
+    "uptimeYear": "7.72%",
+    "time": 840,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 715,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2025-12-11": 122,
+      "2025-12-12": 121,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -394,10 +395,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "98.19%",
-    "time": 758,
-    "timeDay": 662,
-    "timeWeek": 756,
-    "timeMonth": 736,
+    "time": 759,
+    "timeDay": 653,
+    "timeWeek": 728,
+    "timeMonth": 734,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2025-11-18": 164,
@@ -431,8 +432,7 @@
       "2024-12-28": 27,
       "2024-12-26": 29,
       "2024-12-17": 223,
-      "2024-12-16": 256,
-      "2024-12-12": 23
+      "2024-12-16": 256
     }
   },
   {
@@ -447,9 +447,9 @@
     "uptimeMonth": "98.15%",
     "uptimeYear": "98.06%",
     "time": 779,
-    "timeDay": 684,
-    "timeWeek": 742,
-    "timeMonth": 1231,
+    "timeDay": 623,
+    "timeWeek": 719,
+    "timeMonth": 1225,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-12-01": 269,
@@ -486,8 +486,7 @@
       "2024-12-28": 27,
       "2024-12-26": 29,
       "2024-12-17": 223,
-      "2024-12-16": 256,
-      "2024-12-12": 23
+      "2024-12-16": 256
     }
   }
 ]
