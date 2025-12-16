@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 290,
-    "timeDay": 161,
-    "timeWeek": 321,
-    "timeMonth": 276,
-    "timeYear": 292,
+    "timeDay": 195,
+    "timeWeek": 305,
+    "timeMonth": 270,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2025-04-23": 658,
       "2025-04-22": 824
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "33.36%",
+    "uptime": "33.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "6.90%",
-    "time": 796,
+    "uptimeYear": "6.63%",
+    "time": 794,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 711,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-12-15": 125,
+      "2025-12-16": 122,
+      "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
@@ -383,8 +384,7 @@
       "2024-12-28": 16,
       "2024-12-26": 22,
       "2024-12-25": 21,
-      "2024-12-17": 223,
-      "2024-12-16": 256
+      "2024-12-17": 223
     }
   },
   {
@@ -398,10 +398,10 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "98.19%",
-    "time": 755,
-    "timeDay": 596,
-    "timeWeek": 638,
-    "timeMonth": 705,
+    "time": 756,
+    "timeDay": 793,
+    "timeWeek": 635,
+    "timeMonth": 703,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2025-12-13": 20,
@@ -435,8 +435,7 @@
       "2024-12-29": 162,
       "2024-12-28": 27,
       "2024-12-26": 29,
-      "2024-12-17": 223,
-      "2024-12-16": 256
+      "2024-12-17": 223
     }
   },
   {
@@ -450,10 +449,10 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "98.06%",
-    "time": 780,
-    "timeDay": 657,
-    "timeWeek": 667,
-    "timeMonth": 1185,
+    "time": 781,
+    "timeDay": 719,
+    "timeWeek": 657,
+    "timeMonth": 1181,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2025-12-13": 20,
@@ -490,8 +489,7 @@
       "2024-12-29": 163,
       "2024-12-28": 27,
       "2024-12-26": 29,
-      "2024-12-17": 223,
-      "2024-12-16": 256
+      "2024-12-17": 223
     }
   }
 ]
