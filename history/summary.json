@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 287,
-    "timeDay": 72,
-    "timeWeek": 163,
+    "time": 286,
+    "timeDay": 110,
+    "timeWeek": 159,
     "timeMonth": 246,
     "timeYear": 291,
     "dailyMinutesDown": {
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "32.72%",
+    "uptime": "32.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.25%",
-    "time": 793,
+    "uptimeYear": "3.98%",
+    "time": 796,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 703,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-12-25": 123,
+      "2025-12-26": 122,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -390,8 +391,7 @@
       "2025-01-09": 318,
       "2025-01-05": 87,
       "2024-12-29": 100,
-      "2024-12-28": 16,
-      "2024-12-26": 22
+      "2024-12-28": 16
     }
   },
   {
@@ -400,15 +400,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
     "status": "up",
-    "uptime": "98.63%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.28%",
     "time": 757,
-    "timeDay": 927,
-    "timeWeek": 856,
-    "timeMonth": 762,
+    "timeDay": 795,
+    "timeWeek": 911,
+    "timeMonth": 760,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2025-12-13": 20,
@@ -440,8 +440,7 @@
       "2025-01-09": 318,
       "2025-01-05": 108,
       "2024-12-29": 162,
-      "2024-12-28": 27,
-      "2024-12-26": 29
+      "2024-12-28": 27
     }
   },
   {
@@ -456,9 +455,9 @@
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.15%",
     "time": 784,
-    "timeDay": 967,
-    "timeWeek": 884,
-    "timeMonth": 987,
+    "timeDay": 770,
+    "timeWeek": 928,
+    "timeMonth": 984,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2025-12-13": 20,
@@ -493,8 +492,7 @@
       "2025-01-09": 318,
       "2025-01-05": 108,
       "2024-12-29": 163,
-      "2024-12-28": 27,
-      "2024-12-26": 29
+      "2024-12-28": 27
     }
   }
 ]
