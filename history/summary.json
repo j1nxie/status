@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 287,
-    "timeDay": 452,
-    "timeWeek": 213,
-    "timeMonth": 255,
+    "timeDay": 135,
+    "timeWeek": 162,
+    "timeMonth": 257,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2025-04-23": 658,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "32.60%",
+    "uptime": "32.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "3.71%",
+    "uptimeYear": "3.44%",
     "time": 797,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 712,
+    "timeYear": 715,
     "dailyMinutesDown": {
-      "2025-12-27": 119,
+      "2025-12-28": 140,
+      "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
@@ -391,8 +392,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 318,
       "2025-01-05": 87,
-      "2024-12-29": 100,
-      "2024-12-28": 16
+      "2024-12-29": 100
     }
   },
   {
@@ -407,8 +407,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.28%",
     "time": 759,
-    "timeDay": 1013,
-    "timeWeek": 916,
+    "timeDay": 725,
+    "timeWeek": 881,
     "timeMonth": 764,
     "timeYear": 780,
     "dailyMinutesDown": {
@@ -440,8 +440,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 318,
       "2025-01-05": 108,
-      "2024-12-29": 162,
-      "2024-12-28": 27
+      "2024-12-29": 162
     }
   },
   {
@@ -456,9 +455,9 @@
     "uptimeMonth": "98.48%",
     "uptimeYear": "98.16%",
     "time": 785,
-    "timeDay": 955,
-    "timeWeek": 928,
-    "timeMonth": 990,
+    "timeDay": 735,
+    "timeWeek": 897,
+    "timeMonth": 987,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2025-12-13": 20,
@@ -492,8 +491,7 @@
       "2025-01-10": 1440,
       "2025-01-09": 318,
       "2025-01-05": 108,
-      "2024-12-29": 163,
-      "2024-12-28": 27
+      "2024-12-29": 163
     }
   }
 ]
