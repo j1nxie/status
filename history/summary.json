@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 287,
-    "timeDay": 240,
-    "timeWeek": 245,
-    "timeMonth": 242,
-    "timeYear": 291,
+    "timeDay": 149,
+    "timeWeek": 253,
+    "timeMonth": 236,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2025-04-23": 658,
       "2025-04-22": 824
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "32.11%",
+    "uptime": "32.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.54%",
-    "time": 802,
+    "uptimeYear": "1.28%",
+    "time": 806,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 624,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2026-01-04": 142,
+      "2026-01-05": 141,
+      "2026-01-04": 1440,
       "2026-01-03": 1440,
       "2026-01-02": 1440,
       "2026-01-01": 1440,
@@ -397,8 +398,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 318,
-      "2025-01-05": 87
+      "2025-01-09": 318
     }
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "98.31%",
-    "time": 764,
-    "timeDay": 927,
-    "timeWeek": 902,
-    "timeMonth": 790,
-    "timeYear": 789,
+    "uptimeYear": "98.33%",
+    "time": 765,
+    "timeDay": 758,
+    "timeWeek": 883,
+    "timeMonth": 787,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2026-01-01": 21,
       "2025-12-28": 24,
@@ -446,8 +446,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 318,
-      "2025-01-05": 108
+      "2025-01-09": 318
     }
   },
   {
@@ -460,12 +459,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "98.19%",
-    "time": 790,
-    "timeDay": 909,
-    "timeWeek": 905,
-    "timeMonth": 790,
-    "timeYear": 802,
+    "uptimeYear": "98.21%",
+    "time": 791,
+    "timeDay": 730,
+    "timeWeek": 881,
+    "timeMonth": 789,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2026-01-01": 20,
       "2025-12-13": 20,
@@ -497,8 +496,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 318,
-      "2025-01-05": 108
+      "2025-01-09": 318
     }
   }
 ]
