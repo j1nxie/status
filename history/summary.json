@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 289,
-    "timeDay": 318,
-    "timeWeek": 411,
-    "timeMonth": 266,
+    "time": 288,
+    "timeDay": 162,
+    "timeWeek": 409,
+    "timeMonth": 255,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2025-04-23": 658,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "31.57%",
+    "uptime": "31.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 765,
+    "time": 766,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 123,
+      "2026-01-14": 130,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -400,8 +401,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -413,13 +413,13 @@
     "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.51%",
     "time": 770,
-    "timeDay": 973,
-    "timeWeek": 805,
-    "timeMonth": 809,
-    "timeYear": 796,
+    "timeDay": 766,
+    "timeWeek": 810,
+    "timeMonth": 838,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2026-01-01": 21,
       "2025-12-28": 24,
@@ -443,8 +443,7 @@
       "2025-04-04": 40,
       "2025-02-18": 30,
       "2025-02-17": 207,
-      "2025-02-14": 27,
-      "2025-01-14": 999
+      "2025-02-14": 27
     }
   },
   {
@@ -456,13 +455,13 @@
     "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.12%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.39%",
     "time": 785,
-    "timeDay": 915,
-    "timeWeek": 781,
-    "timeMonth": 803,
-    "timeYear": 815,
+    "timeDay": 750,
+    "timeWeek": 785,
+    "timeMonth": 827,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2026-01-01": 20,
       "2025-12-13": 20,
@@ -488,8 +487,7 @@
       "2025-04-04": 18,
       "2025-02-18": 30,
       "2025-02-17": 207,
-      "2025-02-14": 27,
-      "2025-01-14": 1008
+      "2025-02-14": 27
     }
   }
 ]
