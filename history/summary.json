@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 294,
-    "timeDay": 417,
-    "timeWeek": 267,
-    "timeMonth": 272,
+    "time": 293,
+    "timeDay": 317,
+    "timeWeek": 272,
+    "timeMonth": 268,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2025-04-23": 658,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "26.97%",
+    "uptime": "26.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 713,
+    "time": 712,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-15": 177,
+      "2026-04-16": 204,
+      "2026-04-15": 1440,
       "2026-04-14": 1440,
       "2026-04-13": 1440,
       "2026-04-12": 1440,
@@ -400,8 +401,7 @@
       "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
-      "2025-04-17": 1440,
-      "2025-04-16": 1440
+      "2025-04-17": 1440
     }
   },
   {
@@ -416,9 +416,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.55%",
     "time": 778,
-    "timeDay": 768,
-    "timeWeek": 763,
-    "timeMonth": 737,
+    "timeDay": 812,
+    "timeWeek": 783,
+    "timeMonth": 743,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2026-03-21": 120,
@@ -442,8 +442,7 @@
       "2025-10-08": 17,
       "2025-08-21": 251,
       "2025-05-27": 45,
-      "2025-04-17": 260,
-      "2025-04-16": 274
+      "2025-04-17": 260
     }
   },
   {
@@ -457,10 +456,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.44%",
-    "time": 789,
-    "timeDay": 726,
-    "timeWeek": 726,
-    "timeMonth": 709,
+    "time": 790,
+    "timeDay": 786,
+    "timeWeek": 745,
+    "timeMonth": 715,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2026-03-21": 120,
@@ -485,8 +484,7 @@
       "2025-10-07": 19,
       "2025-08-21": 251,
       "2025-05-27": 45,
-      "2025-04-17": 260,
-      "2025-04-16": 274
+      "2025-04-17": 260
     }
   }
 ]
