@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 78,
+    "timeDay": 66,
     "timeWeek": 313,
-    "timeMonth": 273,
-    "timeYear": 296,
+    "timeMonth": 270,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "24.28%",
+    "uptime": "24.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-24": 241,
+      "2026-06-25": 242,
+      "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
@@ -397,8 +398,7 @@
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
-      "2025-06-26": 1440,
-      "2025-06-25": 1440
+      "2025-06-26": 1440
     }
   },
   {
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 784,
-    "timeDay": 753,
-    "timeWeek": 727,
-    "timeMonth": 744,
-    "timeYear": 803,
+    "timeDay": 823,
+    "timeWeek": 743,
+    "timeMonth": 751,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2025-08-21": 251,
       "2025-10-08": 17,
@@ -448,15 +448,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.nazunacord.net.ico",
     "slug": "nazunacord-jellyfin",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 803,
-    "timeDay": 751,
-    "timeWeek": 716,
-    "timeMonth": 774,
+    "time": 804,
+    "timeDay": 803,
+    "timeWeek": 734,
+    "timeMonth": 779,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2025-08-21": 251,
