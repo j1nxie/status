@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "23.74%",
+    "uptime": "23.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 227,
+      "2026-07-10": 387,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -406,16 +406,16 @@
     "url": "https://nazunacord.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
-    "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.56%",
-    "time": 783,
-    "timeDay": 335,
-    "timeWeek": 600,
-    "timeMonth": 717,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "84.12%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.53%",
+    "time": 784,
+    "timeDay": 498,
+    "timeWeek": 625,
+    "timeMonth": 721,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2025-08-21": 251,
@@ -440,7 +440,7 @@
       "2026-03-21": 120,
       "2026-04-28": 234,
       "2026-04-27": 234,
-      "2026-07-10": 69
+      "2026-07-10": 229
     }
   },
   {
@@ -448,15 +448,15 @@
     "url": "https://jellyfin.nazunacord.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.nazunacord.net.ico",
     "slug": "nazunacord-jellyfin",
-    "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.44%",
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "84.13%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "99.41%",
     "time": 801,
-    "timeDay": 319,
-    "timeWeek": 596,
+    "timeDay": 459,
+    "timeWeek": 611,
     "timeMonth": 742,
     "timeYear": 822,
     "dailyMinutesDown": {
@@ -483,7 +483,7 @@
       "2026-03-21": 120,
       "2026-04-28": 234,
       "2026-04-27": 234,
-      "2026-07-10": 69
+      "2026-07-10": 229
     }
   }
 ]
