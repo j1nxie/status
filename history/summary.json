@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 651,
+      "2026-07-22": 737,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -406,17 +406,17 @@
     "url": "https://nazunacord.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
-    "status": "down",
+    "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "94.04%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.52%",
     "time": 780,
-    "timeDay": 301,
-    "timeWeek": 600,
-    "timeMonth": 668,
-    "timeYear": 790,
+    "timeDay": 448,
+    "timeWeek": 616,
+    "timeMonth": 670,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2025-08-21": 251,
       "2025-10-08": 17,
@@ -441,7 +441,7 @@
       "2026-04-28": 234,
       "2026-04-27": 234,
       "2026-07-10": 229,
-      "2026-07-22": 0
+      "2026-07-22": 86
     }
   },
   {
@@ -449,16 +449,16 @@
     "url": "https://jellyfin.nazunacord.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.nazunacord.net.ico",
     "slug": "nazunacord-jellyfin",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.41%",
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.40%",
     "time": 799,
-    "timeDay": 303,
-    "timeWeek": 645,
-    "timeMonth": 675,
+    "timeDay": 463,
+    "timeWeek": 661,
+    "timeMonth": 679,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2025-08-21": 251,
@@ -485,7 +485,7 @@
       "2026-04-28": 234,
       "2026-04-27": 234,
       "2026-07-10": 229,
-      "2026-07-22": 0
+      "2026-07-22": 86
     }
   }
 ]
