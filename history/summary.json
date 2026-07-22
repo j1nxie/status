@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "23.35%",
+    "uptime": "23.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 194,
+      "2026-07-22": 651,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -406,17 +406,17 @@
     "url": "https://nazunacord.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.53%",
-    "time": 782,
-    "timeDay": 580,
-    "timeWeek": 683,
-    "timeMonth": 688,
-    "timeYear": 791,
+    "time": 780,
+    "timeDay": 301,
+    "timeWeek": 600,
+    "timeMonth": 668,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-08-21": 251,
       "2025-10-08": 17,
@@ -440,7 +440,8 @@
       "2026-03-21": 120,
       "2026-04-28": 234,
       "2026-04-27": 234,
-      "2026-07-10": 229
+      "2026-07-10": 229,
+      "2026-07-22": 0
     }
   },
   {
@@ -448,17 +449,17 @@
     "url": "https://jellyfin.nazunacord.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.nazunacord.net.ico",
     "slug": "nazunacord-jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.41%",
-    "time": 800,
-    "timeDay": 582,
-    "timeWeek": 734,
-    "timeMonth": 696,
-    "timeYear": 820,
+    "time": 799,
+    "timeDay": 303,
+    "timeWeek": 645,
+    "timeMonth": 675,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-08-21": 251,
       "2025-10-07": 19,
@@ -483,7 +484,8 @@
       "2026-03-21": 120,
       "2026-04-28": 234,
       "2026-04-27": 234,
-      "2026-07-10": 229
+      "2026-07-10": 229,
+      "2026-07-22": 0
     }
   }
 ]
