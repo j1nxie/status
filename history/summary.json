@@ -13,7 +13,7 @@
     "time": 287,
     "timeDay": 135,
     "timeWeek": 283,
-    "timeMonth": 274,
+    "timeMonth": 280,
     "timeYear": 292,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "21.04%",
+    "uptime": "21.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-10": 313,
+      "2026-10-11": 72,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -397,8 +398,7 @@
       "2025-10-15": 1440,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
-      "2025-10-12": 1440,
-      "2025-10-11": 1440
+      "2025-10-12": 1440
     }
   },
   {
@@ -406,17 +406,17 @@
     "url": "https://nazunacord.net/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/nazunacord.net.ico",
     "slug": "nazunacord-chibisafe",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 780,
-    "timeDay": 780,
-    "timeWeek": 819,
-    "timeMonth": 754,
-    "timeYear": 785,
+    "timeDay": 426,
+    "timeWeek": 726,
+    "timeMonth": 735,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2025-10-15": 18,
       "2025-10-16": 16,
@@ -441,7 +441,8 @@
       "2026-07-10": 229,
       "2026-07-22": 176,
       "2026-08-01": 271,
-      "2026-07-31": 6
+      "2026-07-31": 6,
+      "2026-10-11": 0
     }
   },
   {
@@ -449,17 +450,17 @@
     "url": "https://jellyfin.nazunacord.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.nazunacord.net.ico",
     "slug": "nazunacord-jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 800,
-    "timeDay": 784,
-    "timeWeek": 797,
-    "timeMonth": 755,
-    "timeYear": 816,
+    "time": 799,
+    "timeDay": 422,
+    "timeWeek": 705,
+    "timeMonth": 737,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2025-10-15": 18,
       "2025-10-16": 16,
@@ -484,7 +485,8 @@
       "2026-07-10": 229,
       "2026-07-22": 176,
       "2026-08-01": 271,
-      "2026-07-31": 5
+      "2026-07-31": 5,
+      "2026-10-11": 0
     }
   }
 ]
