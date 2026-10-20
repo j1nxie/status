@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 326,
-    "timeWeek": 269,
-    "timeMonth": 287,
-    "timeYear": 292,
+    "timeDay": 69,
+    "timeWeek": 255,
+    "timeMonth": 280,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/closure.rylie.moe.ico",
     "slug": "closure-api",
     "status": "down",
-    "uptime": "20.81%",
+    "uptime": "20.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 242,
+      "2026-10-20": 255,
+      "2026-10-19": 1440,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -397,8 +398,7 @@
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
-      "2025-10-21": 1440,
-      "2025-10-20": 1440
+      "2025-10-21": 1440
     }
   },
   {
@@ -411,12 +411,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 778,
-    "timeDay": 623,
-    "timeWeek": 714,
-    "timeMonth": 714,
-    "timeYear": 726,
+    "timeDay": 881,
+    "timeWeek": 685,
+    "timeMonth": 723,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2025-10-21": 88,
       "2025-10-22": 37,
@@ -453,11 +453,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.32%",
-    "time": 798,
-    "timeDay": 614,
-    "timeWeek": 717,
-    "timeMonth": 722,
-    "timeYear": 780,
+    "time": 799,
+    "timeDay": 813,
+    "timeWeek": 669,
+    "timeMonth": 727,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2025-10-21": 88,
       "2025-10-22": 37,
